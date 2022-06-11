@@ -14,13 +14,23 @@ There was an insignificant decrease of less than 1% in average reading/math scor
 
 Initial Analysis:
 
+![Initial_district_summary](Resources/Initial_district_summary.png).
+
 Repeated Analysis:
+
+![Repeated_district_summary](Resources/Repeated_district_summary.png).
 
 ## How is the school summary affected?
 
 Based on the original analysis of the school data, Thomas HS had 93% and 97% passing rates in math and reading, respectively. Overall passing percentage was at 91%. The removal of 9th grade math and reading scores in THS caused a significant decrease in overall academic readiness for this school (65%, a decrease of 26% from the original results), with 67% in math and 70% in reading. It should be noted that average math and reading scores remained unchanged. Removing a portion of scores from THS did not affect the scores for the other high schools in the district, thus, the numbers remained the same. 
+
 Initial Analysis:
+
+![Initial_school_summary](Resources/Initial_school_summary.png).
+
 Repeated Analysis:
+
+![Repeated_school_summary](Resources/Repeated_school_summary.png).
 
 ## How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
